@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [POM Hands-On]">
+  <test name="POM TestNG(failed)">
+    <classes>
+      <class name="tests.TestBase">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- tests.TestBase -->
+      <class name="tests.OrderPlacement">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- tests.OrderPlacement -->
+    </classes>
+  </test> <!-- POM TestNG(failed) -->
+</suite> <!-- Failed suite [POM Hands-On] -->

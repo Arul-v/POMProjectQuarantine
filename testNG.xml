@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POM Hands-On">
+ 	<test name="POM TestNG">
+ 		<classes>
+ 			<class name="tests.TestBase" /> 
+ 			<class name="tests.OrderPlacement" /> 
+ 		</classes> 
+ 	</test> 
+ 
+</suite> <!-- Suite -->

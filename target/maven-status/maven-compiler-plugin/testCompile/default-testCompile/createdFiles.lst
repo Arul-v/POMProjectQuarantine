@@ -1,0 +1,5 @@
+pages\CartSummaryPage.class
+pages\SubCategoryPage.class
+pages\SiteHomePage.class
+tests\TestBase.class
+tests\OrderPlacement.class
